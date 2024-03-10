@@ -1,6 +1,6 @@
 # [Documentation de référence de la solution Lymytz ERP](#documentation)
 
-![livre.jpeg](./assets/livre.jpeg)
+![livre.jpeg](https://github.com/gouchere/documentation_lymytz_erp/blob/main/assets/livre.jpeg)
 
 ## [I. RESSOURCES HUMAINE & PAIE] (#rh)
 
