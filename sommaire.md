@@ -1,6 +1,6 @@
-  [Introduction] (# Documentation de référence de la solution Lymytz ERP)
-  [Module Rh] (## Ressources Humaines et gestion de la paie)
-  ### Les Présences
+ [Introduction](# Documentation de référence de la solution Lymytz ERP)
+ I.[Module Rh] (## Ressources Humaines et gestion de la paie)
+    I.1 [Section 1](### Les Présences)
   ### Les Missions
   ### Les Congés
   ### Les Salaires
