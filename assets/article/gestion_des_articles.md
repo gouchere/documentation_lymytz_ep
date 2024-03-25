@@ -11,7 +11,7 @@
 Pour acceder à la page de création des articles, suivez simplement le lien tel que sur la capture ci-dessus
 </p>
 
-## Créeation d'un article
+## Création d'un article
 <p>
-	Pour créer 
+	Pour créer un article, vous pouvez simplement suivre les étapes simple indiqués ci-dessous. 
 </p>
