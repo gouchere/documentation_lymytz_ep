@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/Lymytz%20ERP-7.2.005-blue)
+
+
 # [Documentation de référence de la solution Lymytz ERP](#documentation)
 
 ![livre.jpeg](https://github.com/gouchere/documentation_lymytz_erp/blob/main/assets/livre.jpeg)
