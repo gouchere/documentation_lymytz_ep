@@ -13,6 +13,13 @@ L'accès au formulaire de création des familles d'articles se fait en suivant l
 
 [![formulaire-famille-article.png](https://i.postimg.cc/hPg7dSK3/formulaire-famille-article.png)](https://postimg.cc/fk2L4Qtx)
 
-<ul>
-    <li> **Référence** </li>
-</ul>
+- **Référence** ✅
+Une chaîne de caractère permettant d'identifier la famille d'article qu'on crée
+- **Désignation** ✅
+Une chaîne de caractère permettant d'identifier la famille d'article qu'on crée
+- **Parent** ✅
+
+<br />
+
+>💡Conseil!
+> Choisissez des référence unique, de préférence sans
