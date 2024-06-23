@@ -13,4 +13,6 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 > * Les prix
 > * Paramétrage comptable
 > * Paramétrer les taxes
-> * Le prix de revient 
+> * Le prix de revient
+
+#### Référence avec:
