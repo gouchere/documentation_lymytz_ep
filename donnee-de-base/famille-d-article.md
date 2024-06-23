@@ -10,9 +10,8 @@ Dans notre système, on groupe les articles en familles pour des besoins de stat
 L'accès au formulaire de création des familles d'articles se fait en suivant les chemins 
 <span>_Données de boses / Articles / Familles Article_</span>
 
-<br/>
 
-[formulaire-famille-article.png](https://postimg.cc/fk2L4Qtx)
+[![formulaire-famille-article.png](https://i.postimg.cc/hPg7dSK3/formulaire-famille-article.png)](https://postimg.cc/fk2L4Qtx)
 
 <ul>
     <li> **Référence** </li>
