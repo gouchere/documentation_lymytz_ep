@@ -7,7 +7,9 @@ Bien réussir le paramétrage de ses articles peut réellement accroitre de mani
 Les points que nous évoquerons dans ce document visera à faciliter la prise en main des objectifs suivants:
 
 > ### Sommaire
-> * Enregitrer un article
+
+> * Informations générales
+> * Rechercher un article
 > * Gérer les unités de stockage
 > * Paramétrage des points de stockage
 > * Les prix
@@ -15,4 +17,10 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 > * Paramétrer les taxes
 > * Le prix de revient
 
-#### Référence avec:
+#### Référence avec
+
+> * Les familles d'articles
+> * Les codes barres
+> * Les templates d'articles
+> * Les unités de mesures
+> * Les classes statistiques
