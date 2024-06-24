@@ -21,5 +21,5 @@ Une chaîne de caractère permettant d'identifier la famille d'article qu'on cr�
 
 <br />
 
->💡Conseil!
-> Choisissez des référence unique, de préférence sans
+>[!TIP]
+> Choisissez des références uniques, de préférence sans espaces
