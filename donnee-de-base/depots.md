@@ -52,12 +52,41 @@ La première partie du formulaire présente les champs
 
 #### **Code d'accès**
 
-* **Description :** Cette information permet de poser une restriction au dépôt et ne le rendre utilisable que par des utilisateurs possédant le même code. C'est une chaine de saisie libre, .
+* **Description :** Cette information permet de poser une restriction au dépôt et ne le rendre utilisable que par des utilisateurs possédant le même code. C'est une chaine de saisie libre.
 * **exemple :** `ACC_PRIV`
 * **Requis :** 
 * **Remarque :** 
   * Il est possible de réutiliser un code déjà crée
   * Le paramétrage des code d'accès utilisateur complète cette partie
+
+
+#### **Actif**
+
+* **Description :** Permet d'indiquer si le dépôt est actif ou non
+* **exemple :** `OUI` ou `NON`
+* **Requis :** 
+* **Remarque :** Les dépôt non actif ne seront pas visible sur les autres formulaires.
+
+#### **Rappel Appro**
+
+* **Description :** Permet d'indiquer si le dépôt est actif ou non
+* **exemple :** `OUI` ou `NON`
+* **Requis :** 
+* **Remarque :** Les dépôt non actif ne seront pas visible sur les autres formulaires.
+
+#### **Dépôt multi tranche**
+
+* **Description :** La notion de tranche hororaire est importante et permet d'affiner le calcul de stocks dans des tranche spécifique, en particulier lorsqu'on est dans un environnement **non temps réel**
+* **exemple :** `OUI` ou `NON`
+* **Requis :** 
+* **Remarque :** 
+
+#### **Activer la gestion par lot**
+
+* **Description :** Lorsque ce champ est actif, il devient possible de prendre en charge la gestion des lots pour les articles s'y trouvant.
+* **exemple :** `OUI` ou `NON`
+* **Requis :** 
+* **Remarque :** La même option doit être activé au moment de lier l'article à ce dépôt.
 
 
 ### Options du dépôt
@@ -69,7 +98,3 @@ La première partie du formulaire présente les champs
 ### Les créneaux horaire
 
 ### Les autorisations d'accès
-
-* **Code**: Code d'identification du dépôt, c'est un champ de saisie libre, en générale généré automatiquement à partir du code d'abbreviation
-* **Abbreviation**: champ de saisie libre, avec un code permettant d'identifier le dépôt. On préfère en générale une chaîne de caractère pas très longue qui peut s'afficher en occupant le moins de place possible.
-* **Code <span color=`#FF0000`>*<span>**: Code d'identification du dépôt, c'est un champ de saisie libre
