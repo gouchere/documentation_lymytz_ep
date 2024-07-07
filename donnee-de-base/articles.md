@@ -73,67 +73,67 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 - **Requis :**✅
 - **Note :** La création des [familles d'aticles](famille_article?path=donnee-de-base/famille-d-article.md) est un prérequis à la création des articles
 
-#### **Type service**
+#### **Type de service**
 
-- **Description :**
+- **Description :** Cette information permet de préciser le type de service auquel est rattaché l'article, il vient en compléter la catégorie précédement choisi. Par exemple un article de la catégorie `SERVICE`
 - **Requis :**
 - **Remarque :**
 
 #### **P.U.A TTC**
 
-- **Description :**
-- **Requis :**
-- **Remarque :**
+- **Description :** Si vous cochez cette case, vous indiquez par là que le prix unitaire d'achat fourni à l'opération d'achat est un prix incluant déjà les taxes, la conséquence est que sur la future facture d'achat de cet article, la taxe sera indiqué, mais n'affectera pas le montant ttc.
 
 #### **P.U.V TTC**
 
-- **Description :**
-- **Requis :**
-- **Remarque :**
+- **Description :** Si vous cochez cette case, vous indiquez par là que le prix unitaire de vente fourni à l'opération de vente est un prix incluant déjà les taxes, la conséquence est que sur la future facture de vente de cet article, la taxe sera indiqué, mais n'affectera pas le montant ttc.
 
 #### **Suivi du prix de revient**
 
-- **Description :**
+- **Description :** Vous devez activer ce paramètre si vous souhaitez surveiller les variations importante du prix de revient de l'article
+- **Note :** vous devez en complément préciser à partir de quelle différence il y a inquiétude potentielle
+
+#### **Ecart PR**
+
+- **Description :** Si l'option précédente a été coché, on indique ici la différence entre deux valeurs calculées du prix de revient qui peut poser problème.
 - **Requis :**
-- **Remarque :**
 
 #### **P.U.V variable**
 
-- **Description :**
+- **Description :** Cette option vous permet d'indiquer que le prix à la vente de l'article peux être modifié.
 - **Requis :**
-- **Remarque :**
-
-#### **Ecart PR **
-
-- **Description :**
-- **Requis :**
-- **Remarque :**
+- **Remarque :** Ce paramétrage est pratique pour les contextes où c'est le commerciale au moment de la vente qui négocie le prix.
 
 #### **Valorisation PR**
 
-- **Description :**
-- **Requis :**
-- **Remarque :**
+- **Description :** On indique ici comment souhaite valoriser le prix de revient de l'article
+- **exemple :** `Cout moyen pondere`, `FIFO`
 
 #### **Classe**
 
-- **Description :**
-- **Requis :**
+- **Description :** Les classes statistiques sont un autres critères de groupage des articles. Ils sont en particulier utilisé pour les journaux de vente ou pour d'autres rapports de production
+- **Requis :** _Non requis_
 - **Remarque :**
 
 #### **Description**
 
-- **Description :**
-- **Requis :**
-- **Remarque :**
+- **Description :** Champ de saisie libre, utilisé si vous voulez apporter d'avantages d'informations sur l'article.
+- **Requis :** _Non requis_
 
 ### 2. Conditionnements
 
+![formulaire-conditionnement.png](https://i.postimg.cc/zX6V5rpZ/formulaire-conditionnement.png)
+
 ### 3. Stockages
+
+![ksnip-20240707-145511.png](https://i.postimg.cc/HsM9Ht56/ksnip-20240707-145511.png)
 
 ### 4. Catégorie tarifaire
 
+![article-cat-tarif.png](https://i.postimg.cc/CMXdj08P/article-cat-tarif.png)
+
 ### 5. Comptabilité
+
+![article-compta.png](https://i.postimg.cc/G2LkYCZg/article-compta.png)
 
 #### Référence avec
 

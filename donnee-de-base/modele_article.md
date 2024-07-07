@@ -1,1 +1,1 @@
-# Les modèles d'article
+# Les modèles d'articles
