@@ -91,13 +91,13 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 - **Requis :**
 - **Remarque :**
 
-#### **Suivi du prix de revient **
+#### **Suivi du prix de revient**
 
 - **Description :**
 - **Requis :**
 - **Remarque :**
 
-#### **P.U.V variable **
+#### **P.U.V variable**
 
 - **Description :**
 - **Requis :**
@@ -109,19 +109,19 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 - **Requis :**
 - **Remarque :**
 
-#### **Valorisation PR **
+#### **Valorisation PR**
 
 - **Description :**
 - **Requis :**
 - **Remarque :**
 
-#### **Classe **
+#### **Classe**
 
 - **Description :**
 - **Requis :**
 - **Remarque :**
 
-#### **Description **
+#### **Description**
 
 - **Description :**
 - **Requis :**
@@ -133,7 +133,7 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 
 ### 4. Catégorie tarifaire
 
-### 4. Comptabilité
+### 5. Comptabilité
 
 #### Référence avec
 
