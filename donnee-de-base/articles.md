@@ -57,7 +57,7 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 - **Description :**La notion de modèle ou encore template de saisie permet de rattacher l'article à un modèle de saisie et donner ainsi la possibilité d'effectuer des modification groupé sur tous les articles du même modèle
 - **exemple :** `MEDICAMENTS`
 - **Requis :** _Non requis_
-- **Note :** [gérer les modèles d'articles](modele_article.md)
+- **Note :** [gérer les modèles d'articles](modele_article?path=donnee-de-base/modele_article.md)
 
 #### **Catégorie**
 
@@ -71,7 +71,7 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 - **Description :** C'est l'élément de groupage de premier niveau des articles,
 - **exemple :** _au choix_
 - **Requis :**✅
-- **Note :** La création des [familles d'aticles](famille-d-article.md) est un prérequis à la création des articles
+- **Note :** La création des [familles d'aticles](famille_article?path=donnee-de-base/famille-d-article.md) est un prérequis à la création des articles
 
 #### **Type service**
 
