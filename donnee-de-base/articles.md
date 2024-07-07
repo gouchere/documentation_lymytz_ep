@@ -18,7 +18,7 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 > - Le prix de revient
 
 > [!NOTE]  
-> En générale, l'accès à la fonctionnalité se fait en suivant le chemenin **`Données de bases > Article > Articles`** >
+> En générale, l'accès à la fonctionnalité se fait en suivant le chemenin **`Données de bases > Article > Articles`**
 
 ![formulaire-main-article.png](https://i.postimg.cc/FHbndQ18/formulaire-main-article.png)
 
@@ -30,6 +30,102 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 - **exemple :** `DICLOFENAC 75MG/3ML`
 - **Requis :** ✅
 - **Remarque :** choisissez des dignation aussi significative que possible
+
+#### **Référence article**
+
+- **Description :** Champ de saisie libre
+- **exemple :** `AIN0013`
+- **Requis :** ✅
+- **Remarque :** En générale, on choisit un code court et unique
+
+#### **Référence article**
+
+- **Description :** Champ de saisie libre
+- **exemple :** `AIN0013`
+- **Requis :** ✅
+- **Remarque :** En générale, on choisit un code court et unique
+
+#### **Référence**
+
+- **Description :** Champ de saisie libre
+- **exemple :** `AIN0013`
+- **Requis :** ✅
+- **Remarque :** En générale, on choisit un code court et unique
+
+#### **Modèle**
+
+- **Description :**
+- **exemple :**
+- **Requis :**
+- **Remarque :**
+
+#### **Catégorie**
+
+- **Description :**
+- **exemple :**
+- **Requis :**
+- **Remarque :**
+
+#### **Famille**
+
+- **Description :**
+- **exemple :**
+- **Requis :**
+- **Remarque :**
+
+#### **Type service**
+
+- **Description :**
+- **Requis :**
+- **Remarque :**
+
+#### **P.U.A TTC**
+
+- **Description :**
+- **Requis :**
+- **Remarque :**
+
+#### **P.U.V TTC**
+
+- **Description :**
+- **Requis :**
+- **Remarque :**
+
+#### **Suivi du prix de revient **
+
+- **Description :**
+- **Requis :**
+- **Remarque :**
+
+#### **P.U.V variable **
+
+- **Description :**
+- **Requis :**
+- **Remarque :**
+
+#### **Ecart PR **
+
+- **Description :**
+- **Requis :**
+- **Remarque :**
+
+#### **Valorisation PR **
+
+- **Description :**
+- **Requis :**
+- **Remarque :**
+
+#### **Classe **
+
+- **Description :**
+- **Requis :**
+- **Remarque :**
+
+#### **Description **
+
+- **Description :**
+- **Requis :**
+- **Remarque :**
 
 ### 2. Conditionnements
 
