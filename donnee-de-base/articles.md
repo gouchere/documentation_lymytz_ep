@@ -54,24 +54,24 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 
 #### **Modèle**
 
-- **Description :**
-- **exemple :**
-- **Requis :**
-- **Remarque :**
+- **Description :**La notion de modèle ou encore template de saisie permet de rattacher l'article à un modèle de saisie et donner ainsi la possibilité d'effectuer des modification groupé sur tous les articles du même modèle
+- **exemple :** `MEDICAMENTS`
+- **Requis :** _Non requis_
+- **Note :** [gérer les modèles d'articles](modele_article.md)
 
 #### **Catégorie**
 
-- **Description :**
-- **exemple :**
-- **Requis :**
-- **Remarque :**
+- **Description :** Choisir la catégorie la plus pertinente pour l'article. Le choix de la catégories d'articles peut derteminer les opérations possible dessus
+- **exemple :** `MARCHANDISE`, `PRODUIT FINI`, `PRODUIT SEMI FINI`, `MATIERE PREMIERE`, `SERVICE`
+- **Requis :**✅
+- **Note :**
 
 #### **Famille**
 
-- **Description :**
-- **exemple :**
-- **Requis :**
-- **Remarque :**
+- **Description :** C'est l'élément de groupage de premier niveau des articles,
+- **exemple :** _au choix_
+- **Requis :**✅
+- **Note :** La création des [familles d'aticles](famille-d-article.md) est un prérequis à la création des articles
 
 #### **Type service**
 
