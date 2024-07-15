@@ -123,6 +123,31 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 
 ![formulaire-conditionnement.png](https://i.postimg.cc/zX6V5rpZ/formulaire-conditionnement.png)
 
+#### **Unite**
+
+- **Description :** Champ de saisie libre, utilisé si vous voulez apporter d'avantages d'informations sur l'article.
+- **Requis :** ✅
+
+#### **P.U Achat**
+
+- **Description :** Champ de saisie libre, utilisé si vous voulez apporter d'avantages d'informations sur l'article.
+- **Requis :** _Non requis_
+
+#### **P.U Vente**
+
+- **Description :** Champ de saisie libre, utilisé si vous voulez apporter d'avantages d'informations sur l'article.
+- **Requis :** _Non requis_
+
+#### **P.U Vente Min.**
+
+- **Description :** Champ de saisie libre, utilisé si vous voulez apporter d'avantages d'informations sur l'article.
+- **Requis :** _Non requis_
+
+#### **Marge Min.**
+
+- **Description :** Champ de saisie libre, utilisé si vous voulez apporter d'avantages d'informations sur l'article.
+- **Requis :** _Non requis_
+
 ### 3. Stockages
 
 ![ksnip-20240707-145511.png](https://i.postimg.cc/HsM9Ht56/ksnip-20240707-145511.png)
