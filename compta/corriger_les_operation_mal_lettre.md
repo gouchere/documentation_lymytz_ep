@@ -27,4 +27,4 @@ Une modale s'affichera pour vous montrer les opéraion dont le solde par lettre 
 Il ne vous reste plus qu'à cliquer sur le bouton **Annuler les lettres** pour **délettrer** ces opérations
 
 > [!IMPORTANT]
-> Il sera peut-être nécessaire de repéter l'opération de la capture d'écran numéro 2 plusieurs fois. Car le nombre d'éléments sur la fenêtre modale dépend de la pagination
+> **Il sera peut-être nécessaire de repéter l'opération de la capture d'écran numéro 2 plusieurs fois. Car le nombre d'éléments sur la fenêtre modale dépend de la pagination**
