@@ -1,31 +1,37 @@
-[Scène 1 : Introduction]
+### Scène 1 : Introduction
 
 Visuel : Logo de l'entreprise et musique de fond engageante.
 
 Narrateur :
 "Bienvenue dans l'avenir de la gestion d'entreprise. Découvrez notre solution ERP complète et intuitive conçue pour transformer votre façon de travailler."
+Narrateur[Alt] :
+"Reprenez le controle de votre entreprise, et optez pour une visibilité à 360°. Avec les solutions Lymytz System."
 
-[Scène 2 : Approvisionnement]
+### Scène 2 : Approvisionnement
 
 Visuel : Vidéos d'achat et de gestion de stocks, affichage de l'interface utilisateur.
 
 Narrateur :
 "Gérez vos approvisionnements efficacement avec notre module d'approvisionnement. Optimisez les achats, réduisez les coûts, et assurez une disponibilité continue des produits grâce à une gestion des stocks automatisée."
 
-Texte à l'écran :
-"Optimisation des achats - Réduction des coûts - Disponibilité continue."
+> **_notes_**
+> une capture avec les étapes de validation de d'un achat
 
-[Scène 3 : Gestion des Ventes]
+Texte à l'écran :
+**Optimisation des achats - Réduction des coûts - Disponibilité continue.**
+
+### Scène 3 : Gestion des Ventes
 
 Visuel : Vidéos de commerciaux en action, interface utilisateur pour la gestion des ventes.
-
+> **_notes_**
+> Personnel en caisse, captures application de gestion de caisse...
 Narrateur :
 "Boostez vos ventes avec notre outil de gestion des ventes. De la prise de commande à la facturation, notre ERP facilite chaque étape pour améliorer la satisfaction client."
 
 Texte à l'écran :
 "Augmentation des ventes - Satisfaction client - Processus simplifié."
 
-[Scène 4 : Gestion des RH et de la Paie]
+### Scène 4 : Gestion des RH et de la Paie
 
 Visuel : Vidéos de bureaux RH, interface utilisateur de gestion des ressources humaines.
 
@@ -35,7 +41,7 @@ Narrateur :
 Texte à l'écran :
 "Gestion des talents - Simplification de la paie - Performance accrue."
 
-[Scène 5 : Gestion de la Production]
+### Scène 5 : Gestion de la Production
 
 Visuel : Vidéos de chaînes de production, interface utilisateur pour la planification de la production.
 
@@ -45,7 +51,7 @@ Narrateur :
 Texte à l'écran :
 "Efficacité opérationnelle - Optimisation des processus - Excellence manufacturière."
 
-[Scène 6 : Gestion Comptable]
+### Scène 6 : Gestion Comptable
 
 Visuel : Vidéos de comptables au travail, interface utilisateur comptable.
 
@@ -55,7 +61,7 @@ Narrateur :
 Texte à l'écran :
 "Rapports automatisés - Conformité simplifiée - Décisions basées sur les données."
 
-[Scène 7 : Conclusion et Appel à l'Action]
+### Scène 7 : Conclusion et Appel à l'Action
 
 Visuel : Montage rapide des modules précédents, logo de l'entreprise.
 
