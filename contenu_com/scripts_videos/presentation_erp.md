@@ -4,7 +4,9 @@ Visuel : Logo de l'entreprise et musique de fond engageante.
 
 Narrateur :
 "Bienvenue dans l'avenir de la gestion d'entreprise. Découvrez notre solution ERP complète et intuitive conçue pour transformer votre façon de travailler."
+
 Narrateur[Alt] :
+
 "Reprenez le controle de votre entreprise, et optez pour une visibilité à 360°. Avec les solutions Lymytz System."
 
 ### Scène 2 : Approvisionnement
@@ -23,10 +25,11 @@ Texte à l'écran :
 ### Scène 3 : Gestion des Ventes
 
 Visuel : Vidéos de commerciaux en action, interface utilisateur pour la gestion des ventes.
+
 > **_notes_**
 > Personnel en caisse, captures application de gestion de caisse...
-Narrateur :
-"Boostez vos ventes avec notre outil de gestion des ventes. De la prise de commande à la facturation, notre ERP facilite chaque étape pour améliorer la satisfaction client."
+> Narrateur :
+> "Boostez vos ventes avec notre outil de gestion des ventes. De la prise de commande à la facturation, notre ERP facilite chaque étape pour améliorer la satisfaction client."
 
 Texte à l'écran :
 "Augmentation des ventes - Satisfaction client - Processus simplifié."
