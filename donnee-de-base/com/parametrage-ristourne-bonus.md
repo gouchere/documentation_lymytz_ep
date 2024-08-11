@@ -1,1 +1,1 @@
-# Paramétrage Ristournes/Bonus
+# Paramétrage Ristournes et Bonus
