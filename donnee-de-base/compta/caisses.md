@@ -1,1 +1,1 @@
-# Les Caisses/Banques
+# Paramétrer les caisses et banques

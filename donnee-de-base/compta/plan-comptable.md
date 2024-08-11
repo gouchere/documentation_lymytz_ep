@@ -1,0 +1,1 @@
+# Paramétrage du plan comptable

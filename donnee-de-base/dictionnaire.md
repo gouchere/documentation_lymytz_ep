@@ -1,1 +1,1 @@
-# Les dictionnaires de lieux
+# Dictionnaire de lieux

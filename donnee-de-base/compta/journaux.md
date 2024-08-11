@@ -1,1 +1,1 @@
-# Les journaux comptables
+# Les journaux comptable

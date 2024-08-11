@@ -1,4 +1,4 @@
-# Les dépôts
+# Paramétrage des dépôts
 
 ## Contexte
 

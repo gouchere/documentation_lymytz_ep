@@ -1,0 +1,1 @@
+# Paramétrer les classes statistique
