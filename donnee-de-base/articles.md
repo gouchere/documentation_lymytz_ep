@@ -22,7 +22,7 @@ Les points que nous évoquerons dans ce document visera à faciliter la prise en
 
 ![formulaire-main-article.png](https://i.postimg.cc/FHbndQ18/formulaire-main-article.png)
 
-### 1. Formulaire générales
+### 1. Formulaire générale
 
 #### **Désignation**
 
