@@ -52,27 +52,23 @@ Le paramétrage des utilisateurs est une étape importante de la prise en main d
 - **Description :** Le code d'affichage est un
 - **exemple :** `DICLOFENAC 75MG/3ML`
 - **Requis :**
-- **Remarque :** choisissez des dignation aussi significative que possible
+- **Remarque :** Le code d'affichage peux être nécessaire lorsqu'on veut que le code utilisateur qui apparait sur les rapports imprimé soit différent du nom
 
 #### **Niveau d'accès**
 
-- **Description :** C'est un champ de saisie libre pour renseigner la disignation de votre article
-- **exemple :** `DICLOFENAC 75MG/3ML`
+- **Description :** C'est cette information qui indique à quel groupe de rôles appartient l'utilisateur et donc les fonctionnalités auxquelles il a ou non accès.
 - **Requis :** ✅
-- **Remarque :** choisissez des dignation aussi significative que possible
+- **Remarque :** Les niveaux d'accès sont propre aux agences. Il est important de choisir au préalable l'agence avant.
 
 #### **Groupe**
 
-- **Description :** Choisir le groupe dans la liste des groupe d'utilisateur.
-- **exemple :** `DICLOFENAC 75MG/3ML`
-- **Requis :** ✅
-- **Remarque :** choisissez des dignation aussi significative que possible
+- **Description :** Groupe d'appartenance de l'utilisateur
+- **Requis :**
 
 #### **Se connecter avec un planning**
 
-- **Description :** C'est un champ de saisie libre pour renseigner la disignation de votre article
-- **exemple :** `DICLOFENAC 75MG/3ML`
-- **Requis :** ✅
+- **Description :** Si cette option est activée, alors l'utilisateur ne poura se connecter que s'il a été au préalable planifié dans un [créneau](com/creneaux.md)
+- **Requis :**
 - **Remarque :** choisissez des dignation aussi significative que possible
 
 #### **Accès multi agence**
