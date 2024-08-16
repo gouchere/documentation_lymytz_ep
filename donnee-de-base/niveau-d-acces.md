@@ -30,8 +30,8 @@ Lorsque vous selectionnez cette option, une modale s'ouvre et vous permet de voi
 
 - **Description :** Pour simplifier la paramétrage des privillège d'un groupe/niveau d'accès, vous pouvez les faires hériter d'un autre. Lorsque vous faites hériter un niveau d'un autre, l'ensemble des privillèges du groupe selectionné sont attribués au nouveau niveau
 - **Requis :**
-
-> [!IMPORTANT] . Cette copie ne se fait qu'à la création. Si plus tard vous faites évoluer un niveau, celà ne modifie pas les privillèges du niveau hérité
+  > [!IMPORTANT]
+  > Cette copie ne se fait qu'à la création. Si plus tard vous faites évoluer un niveau, celà ne modifie pas les privillèges du niveau hérité
 
 #### **Description**
 
@@ -45,3 +45,7 @@ Lorsque vous selectionnez cette option, une modale s'ouvre et vous permet de voi
 ### 3. Modifier le privillèges d'un niveau
 
 ![form-edit-privilleges.png](https://i.postimg.cc/FzT259V0/form-edit-privilleges.png)
+
+#### Menu contextuel des privillèges
+
+![menu-contextuel-privillege.png](https://i.postimg.cc/t4FdcB5z/menu-contextuel-privillege.png)
