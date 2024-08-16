@@ -67,27 +67,29 @@ Le paramétrage des utilisateurs est une étape importante de la prise en main d
 
 #### **Se connecter avec un planning**
 
-- **Description :** Si cette option est activée, alors l'utilisateur ne poura se connecter que s'il a été au préalable planifié dans un [créneau](com/creneaux.md)
+- **Description :** Si cette option est activée, alors l'utilisateur ne pourra se connecter que s'il a été au préalable planifié dans un [créneau](com/creneaux.md)
 - **Requis :**
-- **Remarque :** choisissez des dignation aussi significative que possible
+- **Remarque :** Utilisez cette option si vous souhaitez limiter les accès de l'utilisateur à l'applications uniquement à des créneaux horiares spécifique
 
 #### **Accès multi agence**
 
-- **Description :** C'est un champ de saisie libre pour renseigner la disignation de votre article
-- **exemple :** `DICLOFENAC 75MG/3ML`
-- **Requis :** ✅
-- **Remarque :** choisissez des dignation aussi significative que possible
+- **Description :** Si votre entreprise a plusieurs agences, activer cette option pour l'utilisateur lui permet de choisir au moment où il se connecte l'agence dans laquelle il veux travailler. Ainsi, l'utilisateur a accès aux données de toutes les agences
+- **Requis :**
+  > [!NOTE]
+  > Il est possible de limiter les accès de l'utilisateur aux agences choisit uniquement à partir de l'onglet **Accès aux agences**. </br> > [!NOTE]
+  > L'onglet Accès aux agences n'est visible qu'après avoir coché l'option accès multi agences
 
 #### **Accès multi société**
 
-- **Description :** C'est un champ de saisie libre pour renseigner la disignation de votre article
-- **exemple :** `DICLOFENAC 75MG/3ML`
-- **Requis :** ✅
-- **Remarque :** choisissez des dignation aussi significative que possible
+- **Description :** De même que l'option précédente, cette option permet à l'utilisateur d'accéder aux différentes sociétés du groupe.
+- **Requis :**
 
 #### **Compte temporaire**
 
-- **Description :** C'est un champ de saisie libre pour renseigner la disignation de votre article
-- **exemple :** `DICLOFENAC 75MG/3ML`
-- **Requis :** ✅
-- **Remarque :** choisissez des dignation aussi significative que possible
+- **Description :** Si vous coché cette option, il est demandé de renseigner une date qui représente la date à partir de laquelle le compte de l'utilisateur ne pourra plus se connecter à l'application
+- **Requis :**
+- **Remarque :** Lorque l'echéance de connexion est atteint, le compte utilisateur ne peut simplement plus se connecter à l'application.
+
+### 2. Modifier un utilisateur
+
+### 3. Gérer les codes d'accès de l'utilisateur
