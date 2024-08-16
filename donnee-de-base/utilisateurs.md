@@ -75,8 +75,11 @@ Le paramétrage des utilisateurs est une étape importante de la prise en main d
 
 - **Description :** Si votre entreprise a plusieurs agences, activer cette option pour l'utilisateur lui permet de choisir au moment où il se connecte l'agence dans laquelle il veux travailler. Ainsi, l'utilisateur a accès aux données de toutes les agences
 - **Requis :**
+
   > [!NOTE]
-  > Il est possible de limiter les accès de l'utilisateur aux agences choisit uniquement à partir de l'onglet **Accès aux agences**. </br> > [!NOTE]
+  > Il est possible de limiter les accès de l'utilisateur aux agences choisit uniquement à partir de l'onglet **Accès aux agences**. </br>
+
+  > [!NOTE]
   > L'onglet Accès aux agences n'est visible qu'après avoir coché l'option accès multi agences
 
 #### **Accès multi société**
