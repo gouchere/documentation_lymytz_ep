@@ -38,4 +38,10 @@ Lorsque vous selectionnez cette option, une modale s'ouvre et vous permet de voi
 - **Description :** Décrivez si possible le groupe
 - **Requis :**
 
-### Ajouter des utilisateurs au niveau d'accès
+### 2. Ajouter des utilisateurs au niveau d'accès
+
+![form-add-user-in-niveau.png](https://i.postimg.cc/NfTMcSrZ/form-add-user-in-niveau.png)
+
+### 3. Modifier le privillèges d'un niveau
+
+![form-edit-privilleges.png](https://i.postimg.cc/FzT259V0/form-edit-privilleges.png)
