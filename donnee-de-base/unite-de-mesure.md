@@ -19,7 +19,7 @@ L'unité de mesure ou encore unité de conditionnement est un élément essentie
 #### **Définir comme unité par défaut**
 
 - **Description :** Permet de fixer l'unité en cours comme unité par défaut lors du paramétrage des articles.
-- **Requis :**:no_entry_sign:
+- **Requis :** :no_entry_sign:
   > ![NOTE] Une unité par defaut et toute fois requise lorsque vous souhaitez importer votre catalogue à partir d'une source externe (fichier .csv par exemple)
 
 #### **Référence**
