@@ -16,5 +16,7 @@ En effet chaque document dans le système doit avoir un numéro interne unique q
 
 #### **Ajouter/modifier le modèle de numérotation d'un type de document **
 
-> [!NOTE]
-> Initialiser avec le paramétrage par défaut
+> [!TIP]
+> Initialiser avec le paramétrage par défaut.
+> Si vous n'avez pas des format spécifiques propre à vous pour vos numéros de documents, vous pouvez tout à fait cliquer sur le bouton **Initialiser**
+> pour adopter les formats de numérotations par défaut fournit pas l'application
