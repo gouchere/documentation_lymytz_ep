@@ -6,7 +6,7 @@ Toutes les références aux lieux dans l'application sont configuré dans la tab
 
 > [!NOTE]  
 > Ils sont dans la plupart des cas utilisé comme liste de choix pour une adresse, un pays, un ville. <br/>
->
+
 > [!NOTE]  
 > En générale, l'accès à la fonctionnalité se fait en suivant le chemenin **`Données de bases > Général > Dictionnaire`**
 
