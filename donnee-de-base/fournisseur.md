@@ -5,7 +5,7 @@
 La gestion des fournisseurs est une partie de la notion plus générale de gestion des tiers. Nous aborderons dans ce guide les différentes informations requises pour le paramétrage efficient des fournisseurs.
 
 > [!NOTE]  
-> En générale, l'accès à la fonctionnalité se fait en suivant le chemenin **`Données de bases > Tiers > Fournisseur`**
+> En générale, l'accès à la fonctionnalité se fait en suivant le chemenin **`Données de bases > Tiers > Fournisseurs`**
 
 ![formulaire-fournisseur.png](https://i.postimg.cc/25Pksdkj/formulaire-fournisseur.png)
 

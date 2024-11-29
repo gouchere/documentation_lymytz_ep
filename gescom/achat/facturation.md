@@ -14,7 +14,7 @@ Le but de cet article est de décrire comment matérialiser dans la solution `ly
 > - Enregistrer un règlement de la facture
 > - Explorer les autres fonctionnalités de la facture
 >   - Annuler l'écriture comptable
->   - Vérouiler
+>   - Vérrouiller
 >   - Lettrer
 > - Liste des factures
 > - Rechercher une facture
