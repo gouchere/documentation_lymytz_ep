@@ -66,3 +66,5 @@ Comme on l'a dit plus haut, il peut ếtre nécessaire de construire un modèle 
 Il suffi comme sur la capture ci-dessus, de remplir le formulaire et de cliquer sur le bouton `Enregistrer & Propager`
 
 ### 4. Associer un template à un article
+
+<!-- todo: A terminer-->
