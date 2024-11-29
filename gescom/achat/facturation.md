@@ -1,7 +1,5 @@
 # Les factures d'achats
 
-# Les entrées en stocks
-
 ## Contexte
 
 Le but de cet article est de décrire comment matérialiser dans la solution `lymytz` les opérations d'achat, la mise en stock des produits achetés, la comptabilisation de la facture d'achat. Nous aborderons aussi les Etats de validation d'une facture, l'enregistrement des coûts supplémetaires et le règlement de la facture d'achat
