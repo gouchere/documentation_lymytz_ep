@@ -9,7 +9,7 @@ Une sortie en stock est une opération matérialisé par un document qui permet 
 > Lorsqu'on choisit en effet de sortir le stock d'un article par le moyen de cette opération, il n'est pas possible de connaitre la source de l'opération; seul la description eventuelle fourni permettra de justifier l'opération
 
 > ### Sommaire
-
+>
 > - L'en-tête du document
 > - Enregistrer/Modifier du contenu
 > - Liste des documents
@@ -17,7 +17,7 @@ Une sortie en stock est une opération matérialisé par un document qui permet 
 > - Valider un document
 >   <br/>
 
-> [!note] <u>Prérequis</u>
+> ##### <u>Prérequis</u>
 >
 > - [Dépôts](./../../donnee-de-base/depots.md)
 > - [Créneaux horaires](./../../donnee-de-base/com/creneaux.md)
@@ -41,7 +41,7 @@ Une sortie en stock est une opération matérialisé par un document qui permet 
 - **Requis :** ✅
 - **Remarque :** choisissez des dignation aussi significative que possible
 
-> [!info] Voir Aussi
+> ##### Voir Aussi
 >
 > - [Les mouvements de stock](./../stocks/mouvement-de-stocks.md)
 > - [Consulter le stock](./../stocks/consulter-les-stocks.md)
