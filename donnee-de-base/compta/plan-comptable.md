@@ -16,3 +16,5 @@ Le plan comptable avant tout garde exactement le même sens qu'en comptabilité 
 > En générale, l'accès à la fonctionnalité se fait en suivant le chemenin **`Données de bases > Comptabilté > Plan comptable`**
 
 ### 1. Formulaire générale
+
+![form-plan-comptable.png](https://i.postimg.cc/vmBB1T7m/form-plan-comptable.png)
