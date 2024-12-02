@@ -15,6 +15,6 @@ Les points de ventes dans la solution permettent de représenter de manière phy
 ### 1. Formulaire principal
 
 > [!NOTE]  
-> Accéder à l'écran principale de gestion des caisses par le chemin **`Données de bases > Commerciale > Points de ventes`** -> et se positionner sur l'oglet **`Taxes`**
+> Accéder à l'écran principale de gestion des caisses par le chemin **`Données de bases > Commerciale > Points de ventes`**
 
-![form-pt-de-vente.png](https://i.postimg.cc/MHxqYfPh/form-pt-de-vente.png)
+> ![form-pt-de-vente.png](https://i.postimg.cc/MHxqYfPh/form-pt-de-vente.png)

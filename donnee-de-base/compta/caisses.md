@@ -14,6 +14,6 @@ La double notion de `caisse` et `banque` n'a pas beaucoup de différences avec l
 ### 1. Formulaire principal
 
 > [!NOTE]  
-> Accéder à l'écran principale de gestion des caisses par le chemin **`Données de bases > Comptabilité > Caisses/Banques`** -> et se positionner sur l'oglet **`Taxes`**
+> Accéder à l'écran principale de gestion des caisses par le chemin \*\*`Données de bases > Comptabilité > Caisses/Banques`
 
 ![form-caisse.png](https://i.postimg.cc/jd9T216W/form-caisse.png)
